@@ -37,8 +37,13 @@ Execute o arquivo Main na IDE de sua preferência. Ao iniciar será solicitado s
 ## Bibliotecas: 
 
 numpy==1.24.3
+
 pandas==2.0.1
+
 python-dateutil==2.8.2
+
 pytz==2023.3
+
 six==1.16.0
+
 tzdata==2023.3
