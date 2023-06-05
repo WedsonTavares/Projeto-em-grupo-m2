@@ -3,18 +3,23 @@ import csv
 #Importar o horário do computador sendo executado o código
 from datetime import datetime
 #Nome e inicio do POO
+
 class Pesquisa:
     def __init__(self):
         self.respostas = []
     #Função com listas com as perguntas e para receber as respostas
     def obter_respostas(self):
-        perguntas = ["1- Pergunta: ", "2- Pergunta: ", "3-Pergunta: ", "4- Pergunta: "]
+        perguntas = ["1-Você concorda com a implementação da CLT para sua categoria?: ", "2-Você conhece os detalhes da proposta de implementação da CLT para sua categoria (Benefícios),(Malefícios)? ", "3-Você concorda em se tornar MEI para se enquadrarem na CLT?", "4-Você acredita que se tornar MEI afetaria suas remunerações e condições de trabalho?"]
         respostas = []
         #Para coletar as respostas
         for pergunta in perguntas:
-            resposta = input(pergunta + "(1 - Sim, 2 - Não, 3 - Não sei responder): ")
-            respostas.append(resposta)
-
+            while True:
+                resposta = input(pergunta + "(1-Sim|2-Não|3-Não sei responder):")
+                if resposta in ['1', '2', '3']:
+                    respostas.append(int(resposta))
+                    break
+                else:
+                    print("\nOpção inválida\nSelecione uma opção válida: 1-Sim|2-Não|3-Não sei responder\n")
         return respostas
         #Modelo do arquivo CSV
     def salvar_resultados(self):
@@ -34,8 +39,8 @@ class Pesquisa:
         #Laço de repetição da pesquisa
         while True:
             print("Para sair digite (00)\n\nPara informar o gênero que você se identifica digite\nM - Masculino\nF - Feminino\nN - Não binário\n")
-            idade = input("Informe sua idade: ")
-            if idade == "00":
+            idade = int(input("Informe sua idade: "))
+            if idade == 00:
                 break
 
             genero = input("Informe seu gênero: ")
