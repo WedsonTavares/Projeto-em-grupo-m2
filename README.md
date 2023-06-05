@@ -4,20 +4,20 @@
  
 ## Squad 10 
 
-- (Pessoa Co-facilitadora)
-    [Linkedin](https://www.linkedin.com/)
+- (Pessoa Co-facilitadora)<a href="https://www.linkedin.com/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 
-- (Pessoa Gestora de Gente e Engajamento)
-    [Linkedin](https://www.linkedin.com/)
+- (Pessoa Gestora de Gente e Engajamento)<a href="https://www.linkedin.com/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+- (Pessoa Gestora de Conhecimento)<a href="https://www.linkedin.com/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 
-- (Pessoa Gestora de Conhecimento) 
-    [Linkedin](https://www.linkedin.com)
 
-- João Vitor Cunha Chinato (Pessoa Colaboradora 1) 
-    [Linkedin](https://www.linkedin.com/in/joao-vitor-cunha-chinato/)
+- João Vitor Cunha Chinato (Pessoa Colaboradora 1)  <a href="https://www.linkedin.com/in/joao-vitor-cunha-chinato/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 
-- (Pessoa Colaboradora 2) 
-    [Linkedin](https://www.linkedin.com/)
+- (Pessoa Colaboradora 2) <a href="https://www.linkedin.com/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 
 
 
