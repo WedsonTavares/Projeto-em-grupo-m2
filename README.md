@@ -4,7 +4,7 @@
  
 ## Squad 10 
 
-- (Pessoa Co-facilitadora)<a href="https://www.linkedin.com/">
+- Cristhian Monteiro (Pessoa Co-facilitadora)<a href="https://www.linkedin.com/in/cristhian-monteiro/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 
 - (Pessoa Gestora de Gente e Engajamento)<a href="https://www.linkedin.com/">
@@ -32,7 +32,19 @@ Estamos satisfeitos com o resultado alcançado e confiantes de que nosso coletor
 Para a execução do programa é necessario baixar os dois arquivos contidos na Pasta "Código" em uma mesma pasta no seu terminal para que a importação de dados não seja comprometida.
 
 ## Uso:
-Execute o arquivo Main na IDE de sua preferência. Ao iniciar será solicitado sua idade a seguir gênero e as respostas para 4 perguntas, todas com as opções (! - Sim), (2 - Não), (3 - Não sei responder), caso você utilize qualquer caracter ou número diferente dos informados, irá aparecer uma mensagem dizendo que a opção é inválida e que você deve colocar uma das opções válidas, ao cometer esse erro o código já volta imediatamente para a pergunta que você estava colocando a resposta, não sendo necessário reiniciar toda a pesquisa. Para encerrar a pesquisa é necessário que você digite 00 (Na opção idade ou gênero), que assim o arquivo CSV vai ser gerado. Para modificar o nome do arquivo CSV, antes de iniciar a pesquisa é necessário que você entre no arquivo "POOBIBLIOTECA" e na função "salvar_resultados" "arquivo_csv = "nome" " fazer a alteração para o nome que você queira.
+Execute o arquivo "Main" na IDE de sua preferência.
+Ao iniciar será solicitado sua idade a seguir gênero e as respostas para 4 perguntas, todas com as opções:
+
+1. Sim
+2. Não
+3. Não sei responder
+
+## Tratamento de entradas inválidas:
+Caso você utilize qualquer caráter (letra, número ou simbolo) diferente dos apresentados anteriormente, você será informado que a opção é inválida e que deverá inserir uma das opções válidas. O código retornará para a pergunta que você estava, não sendo necessário reiniciar toda a pesquisa.
+
+## Encerrando e gerando arquivo de saída:
+Para encerrar a pesquisa é necessário que você digite 00 (zero, zero) na opção idade ou gênero.
+Assim, será gerado o arquivo CSV com o nome "pesquisa_regulamentacao_aplicativo".
 
 ## Bibliotecas: 
 

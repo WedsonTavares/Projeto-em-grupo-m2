@@ -23,7 +23,7 @@ class Pesquisa:
         return respostas
         #Modelo do arquivo CSV
     def salvar_resultados(self):
-        arquivo_csv = "quemSabeFazAovivo.csv"
+        arquivo_csv = "pesquisa_regulamentacao_aplicativo.csv"
 
         with open(arquivo_csv, "w", newline="") as file:
             writer = csv.writer(file)
