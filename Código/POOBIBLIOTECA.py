@@ -9,7 +9,7 @@ class Pesquisa:
         self.respostas = []
     #Função com listas com as perguntas e para receber as respostas
     def obter_respostas(self):
-        perguntas = ["1-Você concorda com a implementação da CLT para sua categoria?: ", "2-Você conhece os detalhes da proposta de implementação da CLT para sua categoria (Benefícios),(Malefícios)? ", "3-Você concorda em se tornar MEI para se enquadrarem na CLT?", "4-Você acredita que se tornar MEI afetaria suas remunerações e condições de trabalho?"]
+        perguntas = ["1-Você concorda com a implementação da CLT para sua categoria?: ", "2-Você conhece os detalhes da proposta de implementação da CLT para sua categoria (Benefícios),(Malefícios)? ", "3-Você concorda em se tornar MEI para se enquadrar na CLT?", "4-Você acredita que se tornar MEI afetaria suas remunerações e condições de trabalho?"]
         respostas = []
         #Para coletar as respostas
         for pergunta in perguntas:

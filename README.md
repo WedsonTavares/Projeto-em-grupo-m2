@@ -7,7 +7,7 @@
 - Cristhian Monteiro (Pessoa Co-facilitadora)<a href="https://www.linkedin.com/in/cristhian-monteiro/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 
-- (Pessoa Gestora de Gente e Engajamento)<a href="https://www.linkedin.com/">
+- Wedson Tavares (Pessoa Gestora de Gente e Engajamento)<a href="https://www.linkedin.com/in/wedson-tavares-0a7961261/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
         
 - (Pessoa Gestora de Conhecimento)<a href="https://www.linkedin.com/">
