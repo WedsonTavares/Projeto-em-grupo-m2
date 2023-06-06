@@ -16,7 +16,7 @@
 - João Vitor Cunha Chinato (Pessoa Colaboradora 1) <a href="https://www.linkedin.com/in/joao-vitor-cunha-chinato/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 
-- (Pessoa Colaboradora 2) <a href="https://www.linkedin.com/in/thiagochechia/">
+- Thiago Bernardes Chechia (Pessoa Colaboradora 2) <a href="https://www.linkedin.com/in/thiagochechia/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 
 
