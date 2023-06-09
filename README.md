@@ -10,7 +10,7 @@
 - Wedson Tavares (Pessoa Gestora de Gente e Engajamento)<a href="https://www.linkedin.com/in/wedson-tavares-0a7961261/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
         
-- Pâmela de Carvalho Sousa (Pessoa Gestora de Conhecimento)<a href="https://www.linkedin.com/"pâmela-carvalho-sousa-3aa928275
+- Pâmela de Carvalho Sousa (Pessoa Gestora de Conhecimento) <a href="https://www.linkedin.com/"pâmela-carvalho-sousa-3aa928275
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 
 - João Vitor Cunha Chinato (Pessoa Colaboradora 1) <a href="https://www.linkedin.com/in/joao-vitor-cunha-chinato/">
