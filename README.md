@@ -46,6 +46,9 @@ Caso você utilize qualquer caráter (letra, número ou simbolo) diferente dos a
 Para encerrar a pesquisa é necessário que você digite 00 (zero, zero) na opção idade ou gênero.
 Assim, será gerado o arquivo CSV com o nome "pesquisa_regulamentacao_aplicativo".
 
+## Onde fica salvo o arquivo de saída?
+O arquivo de saída da pesquisa será salvo na pasta "Arquivo de saída (Pesquisa)" dentro da pasta principal do projeto.
+
 ## Bibliotecas: 
 
 numpy==1.24.3
