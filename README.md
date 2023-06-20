@@ -47,7 +47,7 @@ Para encerrar a pesquisa é necessário que você digite 00 (zero, zero) na opç
 Assim, será gerado o arquivo CSV com o nome "pesquisa_regulamentacao_aplicativo".
 
 ## Onde fica salvo o arquivo de saída?
-O arquivo de saída da pesquisa será salvo na pasta "Arquivo de saída (Pesquisa)" dentro da pasta principal do projeto.
+O arquivo CSV irá ser salvo automáticamente na pasta que você colocou os 2 arquivos do código. Recomendamos que você crie uma nova pasta, coloque os 2 arquivos do código dentro e de um open folder nela no seu software de programação favorito, aqui nós usamos o VSCode.
 
 ## Bibliotecas: 
 
